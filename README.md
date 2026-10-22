@@ -37,7 +37,7 @@ npm run build
 npm run dev
 ```
 
-ZIP SHA-256: `ce9f46ed3cbd2733b19c89142885c1f511c81f6b74a157ed32410d776aafbf53`
+ZIP SHA-256: `3380ead01c11c42ba5ef384a706d3abbecffd2f24c27885b6642f6e4bb90e938`
 
 Node.js 24 is used. The reconstructed README contains full setup and reproducible Windows/Android build commands. Original ForgeKit code is MIT licensed; full MIT text and all third-party license notices are included in the source archive.
 
